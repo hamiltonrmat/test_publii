@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Hub Alsac&#x27;IA</title>
+    <link href="https://hamiltonrmat.github.io/test_publii/feed.xml" rel="self" />
+    <link href="https://hamiltonrmat.github.io/test_publii" />
+    <updated>2026-07-02T15:46:43+02:00</updated>
+    <author>
+        <name>CeA</name>
+    </author>
+    <id>https://hamiltonrmat.github.io/test_publii</id>
+
+    <entry>
+        <title>trtrtzrtz</title>
+        <author>
+            <name>CeA</name>
+        </author>
+        <link href="https://hamiltonrmat.github.io/test_publii/trtrtzrtz.html"/>
+        <id>https://hamiltonrmat.github.io/test_publii/trtrtzrtz.html</id>
+
+        <updated>2026-07-02T15:46:43+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    zzezrzer er eza rz er z e
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    zzezrzer
+  </p>
+
+  <p>
+    er
+  </p>
+
+  <p>
+    eza
+  </p>
+
+  <p>
+    rz
+  </p>
+
+  <p>
+    er
+  </p>
+
+  <p>
+    z
+  </p>
+
+  <p>
+    e
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

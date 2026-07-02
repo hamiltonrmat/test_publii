@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hamiltonrmat.github.io/test_publii/sitemap.xml

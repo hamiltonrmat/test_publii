@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hub Alsac&#x27;IA",
+    "description": "",
+    "home_page_url": "https://hamiltonrmat.github.io/test_publii",
+    "feed_url": "https://hamiltonrmat.github.io/test_publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "CeA"
+    },
+    "items": [
+        {
+            "id": "https://hamiltonrmat.github.io/test_publii/trtrtzrtz.html",
+            "url": "https://hamiltonrmat.github.io/test_publii/trtrtzrtz.html",
+            "title": "trtrtzrtz",
+            "summary": "zzezrzer er eza rz er z e",
+            "content_html": "\n  <p>\n    zzezrzer\n  </p>\n\n  <p>\n    er\n  </p>\n\n  <p>\n    eza\n  </p>\n\n  <p>\n    rz\n  </p>\n\n  <p>\n    er\n  </p>\n\n  <p>\n    z\n  </p>\n\n  <p>\n    e\n  </p>",
+            "author": {
+                "name": "CeA"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-02T15:46:43+02:00",
+            "date_modified": "2026-07-02T15:46:43+02:00"
+        }
+    ]
+}
